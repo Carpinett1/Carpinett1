@@ -21,5 +21,5 @@ Estou entusiasmado com a perspectiva de abraçar novos desafios e continuamente 
 
 ![Carpinett1's GitHub stats](https://github-readme-stats.vercel.app/api?username=carpinett1&theme=gotham&show_icons=true)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=carpinett1&show_icons=true&locale=en" alt="carpinett1" /></p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carpinetti&theme=gotham&hide_progress=true)
 
