@@ -1,12 +1,12 @@
 <h1 align="center">Olá 👋, Eu sou Thiago Carpinetti</h1>
-<h2 align="center">Sou um desenvolvedor front-end que está empenhado em se tornar fullstack</h2>
 
-<p align="center">
-Minha jornada tem sido marcada pelo desenvolvimento de projetos que abrangem uma variedade de tecnologias, incluindo JavaScript, TypeScript, Vite, React.js, Redux, Jest e RTL. Minhas habilidades técnicas são reforçadas por minha fluência em inglês e pela minha experiência de cinco anos vivendo no exterior
+<p align="left">
+Sou um desenvolvedor front-end que está empenhado em se tornar fullstack
+Minha jornada tem sido marcada pelo desenvolvimento de projetos que abrangem uma variedade de tecnologias, incluindo JavaScript, TypeScript, Vite, React.js, Redux, Jest e RTL. Minhas habilidades técnicas são reforçadas por minha fluência em inglês e pela minha experiência de cinco anos vivendo no exterior.
 
-Na execução dos meus projetos, sou adepto de metodologias ágeis como kanban, SCRUM e agile, que me auxiliam na organização, resolução de problemas e entrega eficiente de resultados
+Na execução dos meus projetos, sou adepto de metodologias ágeis como kanban, SCRUM e agile, que me auxiliam na organização, resolução de problemas e entrega eficiente de resultados.
 
-Estou entusiasmado com a perspectiva de abraçar novos desafios e continuamente aprimorar tanto minhas habilidades técnicas quanto interpessoais
+Estou entusiasmado com a perspectiva de abraçar novos desafios e continuamente aprimorar tanto minhas habilidades técnicas quanto interpessoais.
 </p>
 
 - 📫 Email: **thiac12@gmail.com**
